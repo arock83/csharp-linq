@@ -1,0 +1,8 @@
+C:\Users\arock\workspace\csharp\exercises\linq\bin\Debug\netcoreapp1.1\linq.deps.json
+C:\Users\arock\workspace\csharp\exercises\linq\bin\Debug\netcoreapp1.1\linq.runtimeconfig.json
+C:\Users\arock\workspace\csharp\exercises\linq\bin\Debug\netcoreapp1.1\linq.runtimeconfig.dev.json
+C:\Users\arock\workspace\csharp\exercises\linq\bin\Debug\netcoreapp1.1\linq.dll
+C:\Users\arock\workspace\csharp\exercises\linq\bin\Debug\netcoreapp1.1\linq.pdb
+C:\Users\arock\workspace\csharp\exercises\linq\obj\Debug\netcoreapp1.1\linq.AssemblyInfo.cs
+C:\Users\arock\workspace\csharp\exercises\linq\obj\Debug\netcoreapp1.1\linq.dll
+C:\Users\arock\workspace\csharp\exercises\linq\obj\Debug\netcoreapp1.1\linq.pdb
